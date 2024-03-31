@@ -1,10 +1,9 @@
-# EduCare-portal
+# EduCare Student portal
 
 ---
 
-# Student Portal
+[Check the Student Portal Website out Here!!](https://coffee-expert.github.io/EduCare-portal/)
 
-![Student Portal Logo](./images/student-portal-logo.png)
 
 The Student Portal is a web application designed to simplify the management and organization of student records. It provides a user-friendly interface for viewing, searching, sorting, and filtering student data, making it an essential tool for educational institutions, teachers, and administrators.
 
